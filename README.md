@@ -1,24 +1,11 @@
-# Mikkel Elvers
+# mkelvers
 
-<a href="https://shadow-garden.jp/1st/character/">
-  <img src="assets/alpha.png" alt="Alpha from The Eminence in Shadow" align="right" height="280">
+<a href="https://www.ten-sura.com/character/rimuru">
+  <img src="assets/rimuru.png" alt="Rimuru Tempest from That Time I Got Reincarnated as a Slime" align="right" height="340">
 </a>
 
-I build web apps, from the database to the interface. Mostly TypeScript, with SvelteKit, React, Bun and PostgreSQL.
+I'm a web developer from Denmark. I work mostly in TypeScript, building everything from the database and API to the interface. I care about readable code and the small details that make an app feel good to use.
 
-I like readable code, thoughtful interfaces and anime. Currently building [Sora](https://github.com/mkelvers/sora).
+Most of my time goes into [Sora](https://github.com/mkelvers/sora), a self-hosted anime streaming app with a searchable catalogue, watchlists, playback progress and a release calendar. It's built with SvelteKit, Bun and PostgreSQL, with a typed HTTP API and SDK that other clients can use. A background scheduler keeps the catalogue and episode releases up to date, while each profile has its own watchlist, progress and notifications.
 
-[Website](https://mkelvers.tech) · [Projects](https://mkelvers.tech/projects) · [LinkedIn](https://www.linkedin.com/in/mikkelnothlev/)
-
-### Selected work
-
-- [Sora](https://github.com/mkelvers/sora) `sveltekit` `bun` `postgresql`<br>
-  A self-hosted anime library with a typed API, SDK and job scheduler.
-- [HiFi Horizon](https://github.com/mkelvers/hifi-horizon) `react` `express`<br>
-  A hi-fi webshop with product comparison, accounts and a checkout flow.
-- [Newsify](https://github.com/mkelvers/newsify) `react` `typescript`<br>
-  A mobile news reader with swipe gestures and a personal archive.
-
----
-
-Based in Denmark. Open to front-end and full-stack roles. [Get in touch](mailto:mikkelelvers@outlook.com).
+[Website](https://mkelvers.tech) · [Sora](https://github.com/mkelvers/sora) · [LinkedIn](https://www.linkedin.com/in/mikkelnothlev/) · [Email](mailto:mikkelelvers@outlook.com)
