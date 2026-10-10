@@ -19,8 +19,6 @@ I like readable code, thoughtful interfaces and anime. Currently building [Sora]
 - [Newsify](https://github.com/mkelvers/newsify) `react` `typescript`<br>
   A mobile news reader with swipe gestures and a personal archive.
 
-<br clear="right">
-
 ---
 
 Based in Denmark. Open to front-end and full-stack roles. [Get in touch](mailto:mikkelelvers@outlook.com).
