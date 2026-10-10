@@ -1,7 +1,7 @@
 # mkelvers
 
 <a href="https://www.ten-sura.com/character/rimuru">
-  <img src="assets/rimuru.png" alt="Rimuru Tempest from That Time I Got Reincarnated as a Slime" align="right" height="255">
+  <img src="assets/rimuru-later.png" alt="Rimuru Tempest from That Time I Got Reincarnated as a Slime" align="right" height="255">
 </a>
 
 I build web apps, APIs and tools, mostly in TypeScript. I like straightforward code, carefully made interfaces and understanding how things work.
