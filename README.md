@@ -8,7 +8,7 @@ I build web apps, APIs and tools, mostly in TypeScript. I like straightforward c
 
 - [Sora](https://github.com/mkelvers/sora) `typescript` `sveltekit` `bun` `postgresql` — Self-hosted anime streaming with a searchable catalogue, watchlists, playback progress and a release calendar. Built around a typed HTTP API and SDK, with a scheduler that follows new episodes and keeps the catalogue current. Each profile has its own watchlist, progress and notifications.
 
-- [Skills](https://github.com/mkelvers/skills). A few agent skills I created and use every day when coding with AI.
+- [Skills](https://github.com/mkelvers/skills). A small collection of agent skills I created and use every day when coding with AI. They cover code style, debugging, interface design and writing, giving agents the conventions and habits I want them to follow across projects.
 
 [Website](https://mkelvers.tech) · [LinkedIn](https://www.linkedin.com/in/mikkelnothlev/)
 
